@@ -1,0 +1,31 @@
+[{
+    "name":"abcd",
+    "age":21,
+    "college":"REW",
+    "mob":678899000
+ },
+ {
+    "name":"efgh",
+    "age":22,
+    "college":"DEW",
+    "mob":678899000
+ },
+ {
+    "name":"ijkl",
+    "age":20,
+    "college":"VSD",
+    "mob":987654390
+ },
+ {
+    "name":"mnop",
+    "age":21,
+    "college":"MOY",
+    "mob":987065435
+ },
+ {
+    "name":"qrst",
+    "age":22,
+    "college":"GFT",
+    "mob":90867543
+ }
+]
